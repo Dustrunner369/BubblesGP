@@ -1,0 +1,12 @@
+goal 1.0 0.0 0.0 0.3 0.0 1.0 0.0 1.0 WaterBlock.png true 1 goal
+start 1.0 1.0 1.0 0.0 0.0 0.0 1.0 1.0 WaterBlock.png true 1 start
+fire 1.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0 FireBlock.png true 1 death
+bubbles 1.0 0.0 0.0 0.3 0.0 0.0 1.0 1.0 BubblesBlock.png true 1 death
+DeactivateBubbles 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 WaterBlock.png true 2 activate bubbles timer 2.0
+cheese 1.0 1.0 1.0 0.0 0.0 0.0 1.0 1.0 BubblesBlock.png true 1 death
+Basic 1.0 1.0 1.0 0.0 0.0 0.0 1.0 1.0 GrassBlock.png true 0
+timer&velmod 1.0 1.0 1.0 0.0 0.0 0.0 1.0 1.0 GrassBlock.png true 2 timer 5.0 velmod 3.0 0.5 0.5
+timer 1.0 1.0 1.0 0.0 0.0 0.0 1.0 1.0 GrassBlock.png true 1 timer 5.0
+PULL 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 FireBlock.png true 1 pull 3.0 10.0 true
+PUSH 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 WaterBlock.png true 1 push 2.0 5.0 true
+Breakable 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 WaterBlock.png true 1 break 3.0

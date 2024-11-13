@@ -1,0 +1,9 @@
+Grass
+Fire
+Water
+Start
+Goal
+Erase
+Timer
+Push
+Pull
